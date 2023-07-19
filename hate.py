@@ -1,3 +1,4 @@
+import os
 try:
     import aiohttp, asyncio, os, sys, threading, requests, time, aiohttp, asyncio, random, string, httpx
     from pystyle                                                             import Add, Center, Anime, Colors, Colorate, Write, System
